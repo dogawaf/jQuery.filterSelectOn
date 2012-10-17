@@ -77,7 +77,7 @@ full example :
 				$element.html(this.initialOptions);
 
 				// reset selected item
-				$element.val('');
+				$element.val(selectedValue);
 
 			// a parent is selected, do filtering
 			} else {
