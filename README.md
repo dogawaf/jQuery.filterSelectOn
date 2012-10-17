@@ -12,8 +12,8 @@ Let's say you need to actualize a list of Cities in regard of a selected State. 
     <label>Parent select</label>
     <select name="states">
         <option value="">Select a State</option>
-        <option value="09" data-parent="">09- Ariège</option>
-        <option value="32" data-parent="">32- Gers</option>
+        <option value="09">09- Ariège</option>
+        <option value="32">32- Gers</option>
     </select>
     <br />
     <label>Child select</label>
